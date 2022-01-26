@@ -1,0 +1,51 @@
+.container{
+    /* margin-left: 36%; */
+    margin-top: 3%;
+}
+
+input {
+    border: 2px solid rgb(130, 245, 245);;
+    border-radius: 4px;
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: white;
+    font-size: 15px;
+}
+
+.Main {
+    border: 6px solid rgb(130, 245, 245);
+    border-radius: 4px;
+    width: 60%;
+    height:30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+    background-color: white;
+}
+
+button {
+    
+        display: inline-block;
+        border-radius: 5px;
+        padding: 13px 40px;
+        margin: 4px;
+        background-color: rgb(219, 103, 103);
+        border-color: rgb(230, 94, 94); 
+        font-size: 20px;   
+}
+
+button hover {
+    transform: scale(.98);
+}
+
+h1 {
+    color: rgb(44, 24, 155);
+}
+
+h2 {
+    color:rgb(39, 160, 93);
+}
